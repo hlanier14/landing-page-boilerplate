@@ -19,6 +19,7 @@ A modern, customizable landing page boilerplate built with React, Tailwind CSS, 
 1. Click the "Use this template" button on this repository's GitHub page
 2. Create a new repository with your desired name
 3. Clone your new repository
+4. (Optional) Configure your repository's "About" section using the suggestions in [`.github/REPOSITORY_INFO.md`](.github/REPOSITORY_INFO.md)
 
 ### 2. Install Dependencies
 
